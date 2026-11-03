@@ -1,0 +1,5 @@
+Plot 4 — site de l'infrastructure
+
+Ouvrir index.html (garder les dossiers captures/ et documents/ à côté).
+plot4-autonome.html : la même page en un seul fichier (captures intégrées).
+Pour GitHub Pages : déposer le contenu de ce dossier à la racine du dépôt.
